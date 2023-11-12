@@ -1,4 +1,3 @@
-### Español
 # Proyecto de compilación de enlaces útiles
 
 Este proyecto consiste en una página web que recopila una lista de enlaces que considero útiles. Estos enlaces pueden ser recursos, tutoriales, artículos o cualquier otro contenido relacionado con un tema en particular.
@@ -12,7 +11,6 @@ La página web se organiza en diferentes categorías, cada una enfocada en un á
 - Este proyecto se proporciona "tal cual", sin ninguna garantía expresa o implícita sobre su funcionalidad o precisión de los enlaces proporcionados.
 - Si tienes alguna pregunta o problema relacionado con este proyecto, no dudes en abrir un issue en el repositorio. Estaré encantado de ayudarte en lo que pueda.
 
-### English
 # Useful Links Compilation Project
 
 This project consists of a website that compiles a list of links that I consider useful. These links can be resources, tutorials, articles, or any other content related to a particular topic.
