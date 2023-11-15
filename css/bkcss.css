@@ -1,11 +1,42 @@
 .sidebar {
-  width: 200px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+  padding: 20px;
+  background-color: #333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ }
+a:link {
+  color: white;
+ }
+ 
+ a:visited {
+  color: white;
+ }
+
+ .accordion-button:not(.collapsed) {
+  color: white;
+  background-color: #222;
+}
+ 
+.accordion-button {
+  background-color: #333;
+  color: white;
 }
 
-.content {
-  flex-grow: 1;
+.accordion-body {
+  background-color: #222;
+  color: white;
 }
 
-.nav-link {
+.bmlink {
+  text-decoration: none;
   padding: 10px;
+}
+
+.bmdesc {
+  color: #ccc;
 }
